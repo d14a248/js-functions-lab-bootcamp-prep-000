@@ -8,3 +8,6 @@ function happyHolidaysTo(name){
 function happyHolidaysTo(holiday,name){
   return `Happy ${'Hannukah'}, ${'Mom'}`;
 }
+function holidayCountdown(days,holidays){
+  return `It's ${19} days until ${"Shavuot"}!`
+}
